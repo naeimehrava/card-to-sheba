@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/behnam/card-to-sheba/backend/internal/inquiry"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/inquiry"
 )
 
 type tokenSource struct {

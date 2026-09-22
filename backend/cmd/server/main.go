@@ -12,12 +12,12 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/behnam/card-to-sheba/backend/internal/config"
-	"github.com/behnam/card-to-sheba/backend/internal/httpapi"
-	"github.com/behnam/card-to-sheba/backend/internal/inquiry"
-	"github.com/behnam/card-to-sheba/backend/internal/logging"
-	"github.com/behnam/card-to-sheba/backend/internal/storage/sqlite"
-	"github.com/behnam/card-to-sheba/backend/internal/zarinhub"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/config"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/httpapi"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/inquiry"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/logging"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/storage/sqlite"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/zarinhub"
 )
 
 func main() {

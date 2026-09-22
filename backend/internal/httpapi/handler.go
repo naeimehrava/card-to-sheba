@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/behnam/card-to-sheba/backend/internal/inquiry"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/inquiry"
 )
 
 const maxRequestBytes = 4 << 10

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/behnam/card-to-sheba/backend/internal/inquiry"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/inquiry"
 )
 
 type errorBody struct {

@@ -15,7 +15,7 @@ import (
 
 	_ "modernc.org/sqlite"
 
-	"github.com/behnam/card-to-sheba/backend/internal/inquiry"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/inquiry"
 )
 
 //go:embed migrations/*.sql

@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/behnam/card-to-sheba/backend/internal/inquiry"
+	"github.com/naeimehrava/card-to-sheba/backend/internal/inquiry"
 )
 
 type stubService struct {

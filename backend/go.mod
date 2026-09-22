@@ -1,4 +1,4 @@
-module github.com/behnam/card-to-sheba/backend
+module github.com/naeimehrava/card-to-sheba/backend
 
 go 1.24
 
